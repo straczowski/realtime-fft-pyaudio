@@ -2,7 +2,7 @@
 
 What we want to achieve
 
-![FFT Example Video](./example/fft-example.mp4 "FFT Example Video")
+![FFT Example Video](/example/fft-example.mp4?raw=true "FFT Example Video")
 
 you can select any input source. It is opened a Matplotlib Wiindow which displays live the FFT of input signal. 
 

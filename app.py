@@ -14,7 +14,7 @@ p = pyaudio.PyAudio()
 # the size of buffer
 # if you have a samplerate of 48000 per second and your buffer size is 2048
 # then the FFT applies every 2048/48000(s) = ~0,043 seconds
-CHUNK = 2**11 #2048
+CHUNK = 2**11 # =2048
 
 # Select Input Device and Open PyAudio Stream
 deviceId, sampleRate = select_device(p)

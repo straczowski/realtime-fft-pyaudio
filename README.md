@@ -1,4 +1,4 @@
-# Realtime FFT from any Audio Input with PyAudio and Matplotlib
+# Realtime FFT from any audio input with PyAudio and Matplotlib
 
 What we want to achieve
 
@@ -61,5 +61,8 @@ to run the application start with
 python app.py
 ```
 
+# Info
+
+if you new to the topic FFT, i can recommend you watching [this video](https://youtu.be/spUNpyF58BY). It is nicely animated and explained :) 
 
 

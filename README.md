@@ -4,19 +4,19 @@ What we want to achieve
 
 https://user-images.githubusercontent.com/11285367/202855971-0a25c417-be3f-4ea4-920a-c94db6a97e20.mp4
 
-you can select any input source. It is opened a Matplotlib Wiindow which displays live the FFT of input signal. 
+you can select signal from any input source. It opens a Matplotlib window which displays FFT values of the input signal. 
 
 # Prerequisites
 
-1. Install Port Audio.
+## 1. Install Port Audio.
+
+see [official portaudio website](http://www.portaudio.com/)
 
 ##### MacOS
 
 ```
 brew install portaudio
-```
-
-see [official portaudio website](http://www.portaudio.com/)
+``` 
 
 ##### Linux
 
@@ -24,7 +24,7 @@ see [official portaudio website](http://www.portaudio.com/)
 sudo apt-get install python3-pyaudio
 ```
 
-2. Install PyAudio
+## 2. Install PyAudio
 
 ```
 pip install pyaudio
@@ -33,7 +33,7 @@ pip install pyaudio
 see [official pyaudio website](https://people.csail.mit.edu/hubert/pyaudio/)
 
 
-3. install further dependencies 
+## 3. install further dependencies 
 
 ##### [inquirer](https://pypi.org/project/inquirer/)
 
